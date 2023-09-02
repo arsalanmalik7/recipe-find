@@ -1,0 +1,37 @@
+@font-face {
+  font-family: Paytone One;
+  src: url(./fonts/PaytoneOne-Regular.ttf);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+  font-family: Paytone One;
+
+}
+
+body {
+  background: rgb(217, 126, 21);
+  background: linear-gradient(180deg, rgba(217, 126, 21, 1) 30%, rgba(255, 162, 0, 0.969625350140056) 73%, rgba(2, 0, 36, 1) 205%) fixed;
+}
+
+#main {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+
+}
+
+div#main .tagLine {
+  font-size: 4rem;
+  background: rgba(255, 255, 255, 0.41);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8.2px);
+  -webkit-backdrop-filter: blur(8.2px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  width: max-content;
+  padding: 1rem;
+  margin-top: 2rem;
+}
