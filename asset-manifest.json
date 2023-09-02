@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arsalanmalik7/recipe-find/static/css/main.e73c24f0.css",
+    "main.js": "/arsalanmalik7/recipe-find/static/js/main.7ddc030a.js",
+    "static/js/787.2d036080.chunk.js": "/arsalanmalik7/recipe-find/static/js/787.2d036080.chunk.js",
+    "static/media/PaytoneOne-Regular.ttf": "/arsalanmalik7/recipe-find/static/media/PaytoneOne-Regular.49f0dd262b027f64630e.ttf",
+    "index.html": "/arsalanmalik7/recipe-find/index.html",
+    "main.e73c24f0.css.map": "/arsalanmalik7/recipe-find/static/css/main.e73c24f0.css.map",
+    "main.7ddc030a.js.map": "/arsalanmalik7/recipe-find/static/js/main.7ddc030a.js.map",
+    "787.2d036080.chunk.js.map": "/arsalanmalik7/recipe-find/static/js/787.2d036080.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e73c24f0.css",
+    "static/js/main.7ddc030a.js"
+  ]
+}
