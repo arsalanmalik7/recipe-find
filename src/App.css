@@ -24,7 +24,7 @@ body {
 }
 
 div#main .tagLine {
-  font-size: 4rem;
+  font-size: 3.5rem;
   background: rgba(255, 255, 255, 0.41);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -33,5 +33,5 @@ div#main .tagLine {
   border: 1px solid rgba(255, 255, 255, 0.3);
   width: max-content;
   padding: 1rem;
-  margin-top: 2rem;
+  margin: 2rem 3rem;
 }
