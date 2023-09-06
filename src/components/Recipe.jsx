@@ -34,7 +34,7 @@ const Recipe = () => {
                         setImage(response.data.urls.regular);
                         console.log(response.data.urls.regular)
 
-                        // Handle the data returned by the API
+
                     })
                     .catch(error => {
                         console.error('Error:', error);
@@ -70,6 +70,7 @@ const Recipe = () => {
                     setIngredients(response.data[0].ingredients);
                     setTitle(response?.data[0]?.title);
                     setInstruct(response?.data[0]?.instructions);
+                    e.target[0].value = ""
                 })
                 .catch(error => {
                     console.error('Error:', error);
